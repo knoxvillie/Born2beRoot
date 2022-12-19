@@ -57,3 +57,14 @@ Switch to *root* to get privileges to use `apt`
 ```sh
 su -
 ```
+Update the package list and upgrade the packages.
+```sh
+apt update -y
+```
+```sh
+apt upgrade
+```
+Install `sudo`
+```sh
+apt install sudo
+```
