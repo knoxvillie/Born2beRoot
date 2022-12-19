@@ -9,7 +9,7 @@
   <h1>Libft Project</h1>
 
   <!-- Short Description -->
-  <p>42 Porto Libft</p>
+  <p><big>42 porto Born2beRoot</big></p>
 </br>
 
   <!-- Badges -->
@@ -44,4 +44,16 @@
 </div>
 </br>
 <div>
-  <h2>:dart: Table of Contents</h2>
+
+<h2>:dart: Table of Contents</h2>
+
+<h2>Getting Started</h2>
+<p>You will need to download the <a href="https://www.debian.org/download">Debian</a></p>
+<p>Follow <a href="https://www.youtube.com/watch?v=OQEdjt38ZJA">here</a> the configuration of the VM</p>
+
+## Sudo
+### 1 - Installing `sudo`
+Switch to *root* to get privileges to use `apt`
+```sh
+su -
+```
